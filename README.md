@@ -6,7 +6,7 @@ The raw data in this repository powers the interactive tools on our website. For
 * **[BSV Price Predictor & Charts](https://bitcoinsv.it/bsv-price/)** - View live price action and historical trends.
 * **[The BSV Top 100 Rich List](https://bitcoinsv.it/rich-list/)** - Track the top 100 wallets and wealth distribution on the network.
 ## 📂 About the Data
-The datasets provided here (`.csv` format) are updated on the 1st and 15th of each month and are free to use for academic research, crypto journalism, and development.
+The datasets provided here (`.csv` format) are updated every Monday and are free to use for academic research, crypto journalism, and development.
 
 *(Last updated: March 6, 2026)*
 
