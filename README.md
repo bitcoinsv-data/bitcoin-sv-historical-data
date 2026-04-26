@@ -8,7 +8,7 @@ The raw data in this repository powers the interactive tools on our website. For
 ## 📂 About the Data
 The datasets provided here (`.csv` format) are updated every Monday and are free to use for academic research, crypto journalism, and development.
 
-*(Last updated: March 6, 2026)*
+*(Last updated: April 26, 2026)*
 
 **Included files:**
 * `bsv-mining-difficulty-YYYY-MM-DD.csv` — network difficulty and price snapshot per update
