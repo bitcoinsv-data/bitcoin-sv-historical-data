@@ -13,10 +13,5 @@ The datasets provided here (`.csv` format) are updated every Monday and are free
 **Included files:**
 * `bsv-mining-difficulty-YYYY-MM-DD.csv` — network difficulty and price snapshot per update
 * `bsv-rich-list-YYYY-MM-DD.csv` — top 100 BSV addresses by balance per update
-## 🌍 International Resources
-If you are looking for localized BSV information, we provide complete guides in multiple languages:
-* 🇮🇹 [Cos'è Bitcoin SV? (Italiano)](https://bitcoinsv.it/it/cose-bitcoin-sv/)
-* 🇪🇸 [¿Qué es Bitcoin SV? (Español)](https://bitcoinsv.it/es/que-es-bitcoin-sv/)
-* 🇵🇹 [O que é Bitcoin SV? (Português)](https://bitcoinsv.it/pt/o-que-e-bitcoin-sv/)
 ---
 *Data provided and maintained by the [bitcoinsv.it](https://bitcoinsv.it) team.*
