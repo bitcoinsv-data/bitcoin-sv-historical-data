@@ -12,6 +12,6 @@ The datasets provided here (`.csv` format) are updated every Monday and are free
 
 **Included files:**
 * `bsv-mining-difficulty-YYYY-MM-DD.csv` — network difficulty and price snapshot per update
-* `bsv-rich-list-YYYY-MM-DD.csv` — top 100 BSV addresses by balance per update
+* `bsv-rich-list-YYYY-MM-DD.csv` — top 100 BSV addresses by balance per update. Source: the [BananaBlocks](https://bananablocks.com/richlist) rich-list API, which ranks every script type. Snapshots dated 2026-09-08 and later include P2SH (`3...`) addresses; earlier snapshots came from the Bitails rich endpoint, which lists P2PKH (`1...`) addresses only, so a few P2SH holders are absent from those files.
 ---
 *Data provided and maintained by the [bitcoinsv.it](https://bitcoinsv.it) team.*
