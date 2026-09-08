@@ -1,10 +1,18 @@
 # Bitcoin SV (BSV) Historical Metrics & Data 📊
 This repository contains open-source datasets tracking the Bitcoin SV (BSV) network, including historical mining revenue, price trends, and wealth distribution data.
-## 🔗 Live Tools & Interactive Calculators
-The raw data in this repository powers the interactive tools on our website. For real-time calculations, please use the links below:
-* **[Live BSV Miner Revenue Simulator](https://bitcoinsv.it/bsv-miner-revenue-simulator/)** - Compare miner economics across BTC, BCH, and BSV as the subsidy disappears.
-* **[BSV Price Predictor & Charts](https://bitcoinsv.it/bsv-price/)** - View live price action and historical trends.
-* **[The BSV Top 100 Rich List](https://bitcoinsv.it/rich-list/)** - Track the top 100 wallets and wealth distribution on the network.
+## 🔗 Live Tools on bitcoinsv.it
+These datasets are weekly snapshots of the same on-chain sources behind the live tools on our website. For current figures, use the tools directly:
+* **[BSV Top 100 Rich List](https://bitcoinsv.it/rich-list/)** - Top 100 addresses by balance, wealth concentration and top-10 distribution chart.
+* **[BSV Miner Revenue Simulator](https://bitcoinsv.it/bsv-miner-revenue-simulator/)** - Miner economics across BTC, BCH and BSV as the block subsidy shrinks.
+* **[BSV Price and Market Data](https://bitcoinsv.it/bsv-price/)** - Live BSV price, chart and market data.
+* **[BSV Live CoinMarketCap Ranking](https://bitcoinsv.it/bsv-coinmarketcap-ranking/)** - Daily-updated position of BSV in the top 100 by market cap.
+* **[BSV Energy Consumption](https://bitcoinsv.it/bsv-energy-consumption/)** - Measured network energy use per block and per transaction, with the method published.
+* **[BSV Satoshi Converter](https://bitcoinsv.it/bsv-satoshi-converter/)** - Sats to BSV and USD at the live rate.
+
+## 📦 Other Repositories
+* **[bsv-energy-consumption](https://github.com/bitcoinsv-data/bsv-energy-consumption)** - Energy measurement data and methodology behind the energy page.
+* **[bsv-paper-wallet](https://github.com/bitcoinsv-data/bsv-paper-wallet)** - Offline, single-file BSV paper wallet generator.
+
 ## 📂 About the Data
 The datasets provided here (`.csv` format) are updated every Monday and are free to use for academic research, crypto journalism, and development.
 
