@@ -16,7 +16,7 @@ These datasets are weekly snapshots of the same on-chain sources behind the live
 ## 📂 About the Data
 The datasets provided here (`.csv` format) are updated every Monday and are free to use for academic research, crypto journalism, and development.
 
-*(Last updated: September 8, 2026)*
+*(Last updated: September 14, 2026)*
 
 **Included files:**
 * `bsv-mining-difficulty-YYYY-MM-DD.csv` — network difficulty and price snapshot per update
