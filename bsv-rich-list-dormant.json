@@ -1,0 +1,407 @@
+{
+ "updated": "2026-10-21",
+ "source": "BananaBlocks",
+ "definition": "last_moved is the date of the latest transaction that spent from the address or added at least 1 BSV to it.",
+ "addresses": {
+  "1A6ud3LrKkPqkwrbGmxu84YTsaJX51SmW": {
+   "balance_sat": 189652769054477,
+   "last_moved": "2026-10-21"
+  },
+  "162bzZT2hJfv5Gm3ZmWfWfHJjCtMD6rHhw": {
+   "balance_sat": 49212403358965,
+   "last_moved": "2026-10-02"
+  },
+  "1FwkaAidQ4tnzFmBfEqbXJU4EzjRNshFT5": {
+   "balance_sat": 36451030069907,
+   "last_moved": "2026-10-08"
+  },
+  "1HJyBhsNzmFD7cePZc3kZpc92WvUW9JyEv": {
+   "balance_sat": 28346109324617,
+   "last_moved": "2026-10-16"
+  },
+  "1JLp73BGTdWAoMsPasJ7k7GuoA9Yq2XFFY": {
+   "balance_sat": 25015450562620,
+   "last_moved": "2026-10-19"
+  },
+  "1D7c9BTBgo4EDtN4zwYHj9p7hxBiYTuymf": {
+   "balance_sat": 17890182260131,
+   "last_moved": "2026-09-30"
+  },
+  "153GYbQtzTXUXpVx5QgSKdDh2ozGPPSWYc": {
+   "balance_sat": 15054065415291,
+   "last_moved": "2026-09-22"
+  },
+  "1Ny4qtQkChVnSYYrSDdF38W1XKsS3FjAc5": {
+   "balance_sat": 14760288721392,
+   "last_moved": "2021-07-13"
+  },
+  "13Zp4xBptPZiGDu8Bur3L4F1QK2ZARcpiE": {
+   "balance_sat": 13500002162459,
+   "last_moved": "2018-12-16"
+  },
+  "1P4t7z8SwnajLpSap3eRpWMXtYBPpnjW9t": {
+   "balance_sat": 13318715238171,
+   "last_moved": "2026-10-21"
+  },
+  "1FTHjBpyCn6wyh4fjYmn1CS8qWa9eG8gZj": {
+   "balance_sat": 12500000143837,
+   "last_moved": "2025-09-03"
+  },
+  "1GmVsyUaQ49LNNVyBmwyR4czfqk966MHw8": {
+   "balance_sat": 11737658203147,
+   "last_moved": "2022-02-01"
+  },
+  "1KZrUyqNCWbe9zLixMtjd7XCwb1KtEriHY": {
+   "balance_sat": 10718516691789,
+   "last_moved": "2026-10-08"
+  },
+  "12ov5BL4NbCn8GsdeV6fdPa5HrHGsdAopK": {
+   "balance_sat": 9734947801713,
+   "last_moved": "2026-10-21"
+  },
+  "1JZzW9L59tHosrdco4zVrLiGV2pD72VUoF": {
+   "balance_sat": 9506615738416,
+   "last_moved": "2020-02-01"
+  },
+  "3AcYRPHcMQeRx2JyVEYLG9oDEiy1qgsWka": {
+   "balance_sat": 8794163045610,
+   "last_moved": "2019-10-11"
+  },
+  "19gP93RHV45PjHMhoKaPXbbQKcVrk3dKZS": {
+   "balance_sat": 8421498582832,
+   "last_moved": "2026-10-08"
+  },
+  "17cUUeYQ9h5znWryj3iP5qXxQWM5H32F7j": {
+   "balance_sat": 8402220510617,
+   "last_moved": "2024-02-27"
+  },
+  "1FeexV6bAHb8ybZjqQMjJrcCrHGW9sb6uF": {
+   "balance_sat": 7995818934402,
+   "last_moved": "2022-06-12"
+  },
+  "16vizpkzfz4cU6kZvjM6R8VLyaDagjqda9": {
+   "balance_sat": 7200044564580,
+   "last_moved": "2024-07-05"
+  },
+  "1F884r9J2WKbu8wekebqqRcu1Bw1jiRXba": {
+   "balance_sat": 6937020730649,
+   "last_moved": "2020-11-03"
+  },
+  "16kGrfwYJRzJpS7XCnrkBoVLTaPdQaHSuL": {
+   "balance_sat": 6850144806867,
+   "last_moved": "2026-10-21"
+  },
+  "1E1Sx6VtSNrdWEew7q9qpA7zp7zeZoLyk8": {
+   "balance_sat": 6835904416179,
+   "last_moved": "2024-09-19"
+  },
+  "1Tz3P9kov7bDuVbPFsFrAXd3XooEWoAD8": {
+   "balance_sat": 6586892925849,
+   "last_moved": "2024-08-28"
+  },
+  "1DgMGFRVSViwADjDotF56uKT9nGWrGPRqx": {
+   "balance_sat": 6569904910180,
+   "last_moved": "2026-09-01"
+  },
+  "1CKrEPNb9JQzhpynMvpzGRA89DFhEAGR2t": {
+   "balance_sat": 5622903080988,
+   "last_moved": "2026-02-02"
+  },
+  "1LdRcdxfbSnmCYYNdeYpUnztiYzVfBEQeC": {
+   "balance_sat": 5388005999422,
+   "last_moved": "2014-05-27"
+  },
+  "1KZFSWUz3qSwvYjFiitZre3xZoZ83q6YhT": {
+   "balance_sat": 5295135887280,
+   "last_moved": "2025-07-23"
+  },
+  "1EkkGXR7dTbZbrKFKoe6YEP4gj4GzMeKvw": {
+   "balance_sat": 4837881936413,
+   "last_moved": "2021-09-28"
+  },
+  "1EfBMK9q6rGFZazeF7jyNdTgqGYgcDgRE5": {
+   "balance_sat": 4826037223909,
+   "last_moved": "2017-06-07"
+  },
+  "17U86sbWWdPjJcx1ZV2Xp3T1GEoDx7N2p1": {
+   "balance_sat": 4240335517031,
+   "last_moved": "2026-01-05"
+  },
+  "193i1r6YXUb9FdhYf5uUXVA6jAu4kU4ARK": {
+   "balance_sat": 4034816357995,
+   "last_moved": "2026-09-18"
+  },
+  "13yBADPbx89Lhh8Efh9oixamge5SRfrv1a": {
+   "balance_sat": 4000024802533,
+   "last_moved": "2026-09-22"
+  },
+  "157msRqoHYaiUWdWJQv3kkFXJnFDHAULSd": {
+   "balance_sat": 3987492140001,
+   "last_moved": "2026-06-25"
+  },
+  "187xuwUXwVDF8YjZooVVP37xipyA1PmXTu": {
+   "balance_sat": 3635026899022,
+   "last_moved": "2025-10-12"
+  },
+  "1LjoE5MNviaMwMHgrfV85fHXLjq2RvR3TU": {
+   "balance_sat": 3630292000001,
+   "last_moved": "2024-04-21"
+  },
+  "16r28es1JDVzuLUeXvXZnFfEBovjiecc6g": {
+   "balance_sat": 3600039972759,
+   "last_moved": "2021-08-02"
+  },
+  "1Az1BAeS8ajeNo5DSf7DKThXqAtfo3gr2u": {
+   "balance_sat": 3366940692459,
+   "last_moved": "2017-12-06"
+  },
+  "1KGpRvXsNUSacJjSocRU8U9XeYQ4Hpc7GV": {
+   "balance_sat": 3359148170960,
+   "last_moved": "2026-10-08"
+  },
+  "1FQNi6NiaKhymJZdKikjRUYdwcZtcSLxpG": {
+   "balance_sat": 3289480709792,
+   "last_moved": "2025-08-11"
+  },
+  "16a4nv7DW7vRYZTtKx8tTAWh2ty8jbpXB3": {
+   "balance_sat": 3146152414660,
+   "last_moved": "2019-05-02"
+  },
+  "12ib7dApVFvg82TXKycWBNpN8kFyiAN1dr": {
+   "balance_sat": 3100005998247,
+   "last_moved": "2010-07-24"
+  },
+  "1M6kiiwpJ4KaT9J4uY7ZYEu7k3aE9kmMqP": {
+   "balance_sat": 2999999999935,
+   "last_moved": "2026-01-18"
+  },
+  "12n6d3JTsYZd2SzXEy2QdazWoejfewJgmj": {
+   "balance_sat": 2999950004057,
+   "last_moved": "2019-09-18"
+  },
+  "18gQDkXfWKsLYwzYUY4MXuerRbg4xSmjZ9": {
+   "balance_sat": 2944999503830,
+   "last_moved": "2017-11-15"
+  },
+  "1JCtg7CEqifVoTjEiCDSAJzqk2AAWsZtY6": {
+   "balance_sat": 2931207851074,
+   "last_moved": "2023-04-18"
+  },
+  "1JBq1rRQSnMMFR384XLULQtb6boPzsL7fg": {
+   "balance_sat": 2922201747494,
+   "last_moved": "2026-08-20"
+  },
+  "12tkqA9xSoowkzoERHMWNKsTey55YEBqkv": {
+   "balance_sat": 2815108549435,
+   "last_moved": "2010-05-12"
+  },
+  "1PsyNJXs5p2G94g42vcDCMGQvhAUCGBSGU": {
+   "balance_sat": 2810848337808,
+   "last_moved": "2026-10-21"
+  },
+  "1MggaTm6wHowuQhUbcJMsHKL2jezDPEAiQ": {
+   "balance_sat": 2625193254459,
+   "last_moved": "2019-05-10"
+  },
+  "1SY2BVmUu3UxF7afuSH7iCvWByLrUw2FC": {
+   "balance_sat": 2467718037426,
+   "last_moved": "2026-05-26"
+  },
+  "16Jyis1XccrJevd4pQynfMRN5E5D5W73ec": {
+   "balance_sat": 2466776229830,
+   "last_moved": "2018-01-25"
+  },
+  "14APA9vozSZ6xRpNatyu9942dnQKQ2mpyR": {
+   "balance_sat": 2396764385597,
+   "last_moved": "2019-03-21"
+  },
+  "184mmRmzfQyGXfPNBHifPai8gg2SQepeVp": {
+   "balance_sat": 2395868691103,
+   "last_moved": "2018-10-17"
+  },
+  "1G47mSr3oANXMafVrR8UC4pzV7FEAzo3r9": {
+   "balance_sat": 2262999673506,
+   "last_moved": "2026-10-21"
+  },
+  "1MEgvCRGTE6DCdfeDPYpDzPXx9r5Ts4KL9": {
+   "balance_sat": 2115500000001,
+   "last_moved": "2026-09-22"
+  },
+  "1F6WkSdr8fgqcgKaR93NYjBacMgoVJ3pWJ": {
+   "balance_sat": 2095557689114,
+   "last_moved": "2026-08-08"
+  },
+  "1KaHWsFYXQX4x2KNQJVxu3rKnsdH2HErki": {
+   "balance_sat": 2011100000539,
+   "last_moved": "2025-04-06"
+  },
+  "17rm2dvb439dZqyMe2d4D6AQJSgg6yeNRn": {
+   "balance_sat": 2000801584718,
+   "last_moved": "2017-03-28"
+  },
+  "16dJJzDtBaaGAqZ9o7upTuwDzELH5PBCMj": {
+   "balance_sat": 2000371923031,
+   "last_moved": "2021-08-02"
+  },
+  "177K2cm4LSf3dTBqvQvK1svVTLs7VbtRkR": {
+   "balance_sat": 2000009012044,
+   "last_moved": "2020-12-17"
+  },
+  "1GyQUMfLqoz3fPvE3nRE3o6cNQtirQz7d2": {
+   "balance_sat": 2000000001095,
+   "last_moved": "2021-04-16"
+  },
+  "1N1NRfypdTFoTr1NoHsuvFUdz4tfiPsuUZ": {
+   "balance_sat": 1964459662350,
+   "last_moved": "2018-03-15"
+  },
+  "1PeizMg76Cf96nUQrYg8xuoZWLQozU5zGW": {
+   "balance_sat": 1941442680440,
+   "last_moved": "2013-02-01"
+  },
+  "1BA47GLhQZrTtPt21CJ73cY9YSSsCXX7gF": {
+   "balance_sat": 1887523721183,
+   "last_moved": "2026-10-20"
+  },
+  "1FMYnL1UuBkBidPjGwTvZA2EKoXDn16fmj": {
+   "balance_sat": 1651999320001,
+   "last_moved": "2026-10-12"
+  },
+  "1MYWaeGdVCWaYavoa4A2qvyLCMEJXLrPTR": {
+   "balance_sat": 1567826815119,
+   "last_moved": "2025-07-26"
+  },
+  "1GDPLRNtv52qfSBXzm9GpV9hwAswMx3y13": {
+   "balance_sat": 1525834418513,
+   "last_moved": "2026-10-21"
+  },
+  "17f6mqsKK3j1RvLvbEZ9BMPF8B3uZKc6DH": {
+   "balance_sat": 1501888272933,
+   "last_moved": "2025-10-13"
+  },
+  "1BZUdyeTBQCfPzfGGHuJzYHbJENuJKkLHB": {
+   "balance_sat": 1500000000001,
+   "last_moved": "2025-05-28"
+  },
+  "13PEtdjGFVscva6MFrrcQPfBiZbRLw8hE4": {
+   "balance_sat": 1499999999814,
+   "last_moved": "2025-05-28"
+  },
+  "1KFL2r9QP24m2QCYFXHp7EkfqQt77Teuws": {
+   "balance_sat": 1486430114210,
+   "last_moved": "2025-10-23"
+  },
+  "1K6vuywoKjUybpBNmVD4W3i8BZdRazfQKm": {
+   "balance_sat": 1456000134595,
+   "last_moved": "2019-03-21"
+  },
+  "1LgqWeoPVNuwfQCEnwKAPgcWwH74vHDZ5p": {
+   "balance_sat": 1441857645692,
+   "last_moved": "2026-05-26"
+  },
+  "37HcFH2VY8oZzNtvtGddB24KMkzkP4YZRd": {
+   "balance_sat": 1403565274204,
+   "last_moved": "2020-01-07"
+  },
+  "16r8K5seSjvd8BLY2z1irUDDArxripApD6": {
+   "balance_sat": 1368361532601,
+   "last_moved": "2024-12-03"
+  },
+  "1MrqrZnkqMhPaj7RK665Xpw6qPBRhJpwt": {
+   "balance_sat": 1363465632111,
+   "last_moved": "2026-05-20"
+  },
+  "1tUUTafornuPJd8jZMeBR67X4LWUCAgtL": {
+   "balance_sat": 1360014634545,
+   "last_moved": "2021-02-14"
+  },
+  "1FQeADjkPw8aQd5HbZJ92natK2Qac49oSG": {
+   "balance_sat": 1308639660267,
+   "last_moved": "2025-11-11"
+  },
+  "1DTNb4aSchpdSjek6EucAfmNYDACUfHFVK": {
+   "balance_sat": 1303139601001,
+   "last_moved": "2025-04-25"
+  },
+  "19BmSJxFFyg2yprYKCuNM6KkfH2fPE1VWK": {
+   "balance_sat": 1300009999717,
+   "last_moved": "2025-03-25"
+  },
+  "1N5fXZ7Rafp4FZnbWDhx8hifeVCMwA3SPk": {
+   "balance_sat": 1275300000000,
+   "last_moved": "2026-09-22"
+  },
+  "123nUo4Q8nm3QBs6K4NZrPt25iQdWAChtp": {
+   "balance_sat": 1253659632884,
+   "last_moved": "2025-05-12"
+  },
+  "1NErjmKLtdUxnh82Na1yaXnh1MapobQW3h": {
+   "balance_sat": 1248652171798,
+   "last_moved": "2026-07-08"
+  },
+  "1FPW2bjNqVbTPoXPtVreWjqKrC4qjajJ5": {
+   "balance_sat": 1244110827904,
+   "last_moved": "2025-05-12"
+  },
+  "1CK9ewuxg7AUirYGvqdbLAb9g4RWPFLaV4": {
+   "balance_sat": 1232599989743,
+   "last_moved": "2019-01-18"
+  },
+  "1A8b4XRogkBd8jW7y2zdpz7xjTFLgcVUE2": {
+   "balance_sat": 1226347286671,
+   "last_moved": "2020-03-21"
+  },
+  "1HaXX9uDZTNhEJVT6QGY35Cd6mqms1upnf": {
+   "balance_sat": 1220000000001,
+   "last_moved": "2025-05-12"
+  },
+  "17UMvuqRg2fBn7eHDBrRqrQu78psgV1Yh8": {
+   "balance_sat": 1216909577093,
+   "last_moved": "2025-05-12"
+  },
+  "1HAQ6nSR4EhH2739Tij7AzQtQaY6M6HLRS": {
+   "balance_sat": 1207489015472,
+   "last_moved": "2025-05-12"
+  },
+  "1NHmFMBnmTFnLHYTAR3QZMk2SaECJfhb77": {
+   "balance_sat": 1201326469073,
+   "last_moved": "2026-06-09"
+  },
+  "1MZkARhTypiyG138kuLdcjC8EWBjMtraAY": {
+   "balance_sat": 1200029000769,
+   "last_moved": "2021-08-02"
+  },
+  "17BHpZG2PzuVE2m8NZ4ZC9mtDVQa9Vvf6u": {
+   "balance_sat": 1200000000001,
+   "last_moved": "2025-05-12"
+  },
+  "1GytSdsJToGjpzxjDsksLEznejXgPDGar6": {
+   "balance_sat": 1194476523001,
+   "last_moved": "2025-05-12"
+  },
+  "1H8HoYSDF2ZdVFPqi2cC5qqnzLcsVuiVpa": {
+   "balance_sat": 1174314980903,
+   "last_moved": "2025-05-12"
+  },
+  "1DK425WEUj7y8tEmvoSfbmGsbswgB5FFN": {
+   "balance_sat": 1160997041766,
+   "last_moved": "2025-05-12"
+  },
+  "15rrSdvxncPQqQtVS8WfVd2jajv657R5gv": {
+   "balance_sat": 1159668342316,
+   "last_moved": "2024-01-31"
+  },
+  "14hKYvHN4RC3CR8Y1Jeh1ZaAokFeHEzqDg": {
+   "balance_sat": 1157063071745,
+   "last_moved": "2025-05-12"
+  },
+  "1Ae3NWEyCWRTC3Z9GfFNybx7HbX9XAn1XX": {
+   "balance_sat": 1151589936583,
+   "last_moved": "2025-05-12"
+  },
+  "1AhWi2gpuqWRWxx2ymedpcwi4ACznaBeYD": {
+   "balance_sat": 1150703689926,
+   "last_moved": "2017-08-23"
+  }
+ }
+}
