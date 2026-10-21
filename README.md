@@ -14,12 +14,13 @@ These datasets are weekly snapshots of the same on-chain sources behind the live
 * **[bsv-paper-wallet](https://github.com/bitcoinsv-data/bsv-paper-wallet)** - Offline, single-file BSV paper wallet generator.
 
 ## 📂 About the Data
-The datasets provided here (`.csv` format) are updated every Monday and are free to use for academic research, crypto journalism, and development.
+The datasets provided here (`.csv` and `.json` format) are updated every Monday and are free to use for academic research, crypto journalism, and development.
 
 *(Last updated: October 19, 2026)*
 
 **Included files:**
 * `bsv-mining-difficulty-YYYY-MM-DD.csv` — network difficulty and price snapshot per update
 * `bsv-rich-list-YYYY-MM-DD.csv` — top 100 BSV addresses by balance per update. Source: the [BananaBlocks](https://bananablocks.com/richlist) rich-list API, which ranks every script type. Snapshots dated 2026-09-08 and later include P2SH (`3...`) addresses; earlier snapshots came from the Bitails rich endpoint, which lists P2PKH (`1...`) addresses only, so a few P2SH holders are absent from those files.
+* `bsv-rich-list-dormant.json` — for each top-100 address, the date its coins last moved (the latest transaction that spent from it or added at least 1 BSV to it) and its balance at that update. Source: [BananaBlocks](https://bananablocks.com/) address history.
 ---
 *Data provided and maintained by the [bitcoinsv.it](https://bitcoinsv.it) team.*
